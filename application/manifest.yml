@@ -1,0 +1,4 @@
+applications:
+    - name: dash_app
+      random-route: true
+      memory: 512M
